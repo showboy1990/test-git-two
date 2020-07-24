@@ -4,4 +4,5 @@ public interface TestServiceInterface {
 	void testServiceInterface();
 	void aa();
 	void cc();
+	void ee();
 }
