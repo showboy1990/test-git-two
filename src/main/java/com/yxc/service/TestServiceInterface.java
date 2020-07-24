@@ -5,4 +5,5 @@ public interface TestServiceInterface {
 	void aa();
 	void cc();
 	void ee();
+	void dd();
 }
